@@ -43,7 +43,11 @@ This project builds up knowledged based, collaborative filtering based, and cont
 
 ## Author
 
-Yuemin Li Github: https://github.com/YueminLi
+Yuemin Li 
+
+Github: https://github.com/YueminLi
+
+LinkedIn: https://www.linkedin.com/in/yuemin-li-89166333/
 
 ## License
 
